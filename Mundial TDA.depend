@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1666219106 source:c:\users\tamara\desktop\marco\mundial tda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+	"seleccion.h"
+
+1666216945 c:\users\tamara\desktop\marco\mundial tda\jugador.h
+
+1666218919 source:c:\users\tamara\desktop\marco\mundial tda\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+	<string.h>
+
+1666219106 c:\users\tamara\desktop\marco\mundial tda\seleccion.h
+
+1666219161 source:c:\users\tamara\desktop\marco\mundial tda\seleccion.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+	"seleccion.h"
+	<string.h>
+
+1666574290 source:c:\users\tamara\desktop\marco\universidad\programacion\ejercicios\segundo cuatrimestre\ejercicios\mundial tda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mundial.h"
+	"seleccion.h"
+
+1666574606 c:\users\tamara\desktop\marco\universidad\programacion\ejercicios\segundo cuatrimestre\ejercicios\mundial tda\jugador.h
+
+1666573831 c:\users\tamara\desktop\marco\universidad\programacion\ejercicios\segundo cuatrimestre\ejercicios\mundial tda\seleccion.h
+
+1666574606 source:c:\users\tamara\desktop\marco\universidad\programacion\ejercicios\segundo cuatrimestre\ejercicios\mundial tda\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+	<string.h>
+
+1666575079 source:c:\users\tamara\desktop\marco\universidad\programacion\ejercicios\segundo cuatrimestre\ejercicios\mundial tda\seleccion.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+	"seleccion.h"
+	<string.h>
+
+1666575079 source:c:\users\tamara\desktop\marco\universidad\programacion\ejercicios\segundo cuatrimestre\ejercicios\mundial tda\mundial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+	"seleccion.h"
+	"mundial.h"
+
+1666572895 c:\users\tamara\desktop\marco\universidad\programacion\ejercicios\segundo cuatrimestre\ejercicios\mundial tda\mundial.h
+
